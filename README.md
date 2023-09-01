@@ -17,10 +17,7 @@
 
 
 
-### 🍭 GitHub 开源项目
 
-[![1](https://github-readme-stats.vercel.app/api/pin/?username=JinLonGzh&repo=koiUser-front&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/JinLonGzh/koiUser-front)
-[![2](https://github-readme-stats.vercel.app/api/pin/?username=JinLonGzh&repo=koiUser&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/JinLonGzh/koiUser)
 <br>
 
 ### 🔥 GitHub 活跃度
