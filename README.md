@@ -11,9 +11,7 @@
 
 <img align="right" src="https://moe-counter.glitch.me/get/@:JinLonGzh?theme=rule34">
 
-## 🧸 全栈工程师（正在努力）
 
-热爱Java、热爱技术。
 
 
 
