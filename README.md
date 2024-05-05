@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><a href="https://github.com/JinLonGzh">✨ Jinlong GitHub 首页</a></h1>
+  <h1 align="center"><a href="https://github.com/JinlongZh">✨ Jinlong GitHub 首页</a></h1>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 <br>
 
-<img align="right" src="https://moe-counter.glitch.me/get/@:JinLonGzh?theme=rule34">
+<img align="right" src="https://moe-counter.glitch.me/get/@:JinlongZh?theme=rule34">
 
 
 
@@ -20,7 +20,7 @@
 
 ### 🔥 GitHub 活跃度 
 
-![JinLonGzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinLonGzh&custom_title=我的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
-![技术占比](https://github-readme-stats.vercel.app/api/top-langs/?username=JinLonGzh&layout=compact&langs_count=8&custom_title=技术占比&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
-![](https://github-readme-activity-graph.vercel.app/graph?username=JinLonGzh&theme=dracula&custom_title=我的心电图&radius=10)
+![JinlongZh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinlongZh&custom_title=我的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+![技术占比](https://github-readme-stats.vercel.app/api/top-langs/?username=JinlongZh&layout=compact&langs_count=8&custom_title=技术占比&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+![](https://github-readme-activity-graph.vercel.app/graph?username=JinlongZh&theme=dracula&custom_title=我的心电图&radius=10)
 <br>
