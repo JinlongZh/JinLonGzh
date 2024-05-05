@@ -1,9 +1,9 @@
 <p align="center">
-  <h1 align="center"><a href="https://github.com/JinLonGzh">✨ JinLonGzh GitHub 首页</a></h1>
+  <h1 align="center"><a href="https://github.com/JinLonGzh">✨ Jinlong GitHub 首页</a></h1>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=大家好，我是JinLonGzh;欢迎来到我的 GitHub!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="动态介绍">
+  <img src="https://readme-typing-svg.demolab.com/?lines=大家好，我是Jinlong;欢迎来到我的 GitHub!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="动态介绍">
 </p>
 
 
